@@ -1,0 +1,10 @@
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/drewprice/hello-world-ruby-cb-000/.git/ CREATE index.lock
+/usr/local/bin/backup-lab: 3: cd: can't cd to /home/drewprice/home
+To git@github.com:drewprice/hello-world-ruby-cb-000.git
+ + 8fc8d62...343de97 refs/wip/master -> wip (forced update)
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+/home/drewprice/hello-world-ruby-cb-000/.git/ CREATE index.lock
+/usr/local/bin/backup-lab: 3: cd: can't cd to /home/drewprice/home
